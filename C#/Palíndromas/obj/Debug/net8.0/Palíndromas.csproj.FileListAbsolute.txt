@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\bin\Debug\net8.0\Palíndromas.exe
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\bin\Debug\net8.0\Palíndromas.deps.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\bin\Debug\net8.0\Palíndromas.runtimeconfig.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\bin\Debug\net8.0\Palíndromas.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\bin\Debug\net8.0\Palíndromas.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\refint\Palíndromas.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\Palíndromas.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Palíndromas\obj\Debug\net8.0\ref\Palíndromas.dll

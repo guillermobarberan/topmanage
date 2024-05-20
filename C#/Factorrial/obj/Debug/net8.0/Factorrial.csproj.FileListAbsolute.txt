@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\bin\Debug\net8.0\Factorrial.exe
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\bin\Debug\net8.0\Factorrial.deps.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\bin\Debug\net8.0\Factorrial.runtimeconfig.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\bin\Debug\net8.0\Factorrial.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\bin\Debug\net8.0\Factorrial.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\refint\Factorrial.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\Factorrial.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Factorrial\obj\Debug\net8.0\ref\Factorrial.dll

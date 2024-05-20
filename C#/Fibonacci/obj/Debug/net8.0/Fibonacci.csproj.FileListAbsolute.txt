@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll

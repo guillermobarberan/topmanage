@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\bin\Debug\net8.0\Burbuja.exe
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\bin\Debug\net8.0\Burbuja.deps.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\bin\Debug\net8.0\Burbuja.runtimeconfig.json
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\bin\Debug\net8.0\Burbuja.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\bin\Debug\net8.0\Burbuja.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\refint\Burbuja.dll
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.pdb
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\Burbuja.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Desktop\Intermercado\GitRepo\AutomaticTest\Burbuja\obj\Debug\net8.0\ref\Burbuja.dll
